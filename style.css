@@ -1,0 +1,50 @@
+a:link,
+a:visited,
+a:hover,
+a:active {
+    text-decoration: none;
+}
+a:link {
+    color: grey;
+}
+a:visited {
+    color: black;
+}
+.homepage,
+.page {
+    background-color: whitesmoke;
+    margin: 0px;
+    text-align: center;
+    padding: 200px;
+    border: 8px solid black;
+}
+.page {
+    padding: 50px;
+}
+ul {
+    list-style-type: none;    
+    padding: 0px;
+}
+.title,
+.subtitle {
+    text-align: center;
+    text-decoration: underline;
+}
+.title {
+    font-size: 100px;
+    font-weight: 1000;
+}
+.yum {
+    text-align: center;
+}
+.img {
+    text-align: center;
+}
+img {
+    height: auto;
+    width: 750px;
+}
+.vi {
+    font-weight: 800;
+    text-align: right;
+}
